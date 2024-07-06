@@ -1,4 +1,19 @@
-.support-info {
+.support-info-container {
+    padding: 20px;
+  }
+  
+  .support-heading {
+    text-align: left;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .support-heading span {
+    color: #ffa500;
+  }
+  
+  .support-info {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
